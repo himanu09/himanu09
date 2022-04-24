@@ -42,8 +42,6 @@ I'm pursuing Graduation and currently living in Indore(M.P.), India. Outside Tec
 
 
 
----
-
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
