@@ -1,7 +1,5 @@
-# Hi there, I'm Himanshu Rajore 👋 
-
-[![Twitter Follow](https://twitter.com/Himanu__)
-
+# Hi 👋 
+## I'm Himanshu Rajore!
 - Currently: B.tech ECE student at Chameli Devi Group of Institutions.
 
 🔭 Currently Working
@@ -12,7 +10,7 @@ Currently working as a contributor at [UpgradeMore](https://upgrademore.com/). I
 
 **Check out my GitHub repository:**
 
-[![alt text](https://user-images.githubusercontent.com/96410955/147039841-66cb3b83-15cd-43d3-ad9d-4643a8986778.png "30DaysofPython")](https://github.com/himanshu-957/30DaysofPython)
+[![alt text](https://user-images.githubusercontent.com/96410955/147039841-66cb3b83-15cd-43d3-ad9d-4643a8986778.png "30DaysofPython")](https://github.com/himanu09/30-Days-of-Python)
 
 **Intern at Infinity Research Lab:**
 
@@ -39,10 +37,8 @@ I'm pursuing Graduation and currently living in Indore(M.P.), India. Outside Tec
 
 [![website](./img/twitter-light.svg)](https://twitter.com/Himanu__#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Himanu__#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/himanshu-rajore-427a861a8#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/himanshu-rajore-427a861a8#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ### Languages and Tools:
 
