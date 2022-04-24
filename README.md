@@ -25,7 +25,7 @@ I'm pursuing Graduation and currently living in Indore(M.P.), India. Outside Tec
 📫 How to reach me:
 ==================
 ![alt text](https://user-images.githubusercontent.com/96410955/147101374-cc77a8ec-afee-4389-9866-fd1278056dc9.png "Gmail")
-[![alt text](https://user-images.githubusercontent.com/96410955/147101964-30bea307-9f2f-476d-b9db-3578449df79b.png "Linkedin")](https://github.com/himanu09/)
+[![alt text](https://user-images.githubusercontent.com/96410955/147101964-30bea307-9f2f-476d-b9db-3578449df79b.png "Linkedin")](https://www.linkedin.com/in/himanshu-rajore-427a861a8/)
 -
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other content creators
@@ -39,6 +39,8 @@ I'm pursuing Graduation and currently living in Indore(M.P.), India. Outside Tec
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="60px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="padding-right:10px;" />]
+
+![alt text](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
 
