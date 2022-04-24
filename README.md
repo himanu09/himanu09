@@ -33,12 +33,6 @@ I'm pursuing Graduation and currently living in Indore(M.P.), India. Outside Tec
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/Himanu__#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Himanu__#gh-dark-mode-only)
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/himanshu-rajore-427a861a8#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/himanshu-rajore-427a861a8#gh-dark-mode-only)
 
 ### Languages and Tools:
 
