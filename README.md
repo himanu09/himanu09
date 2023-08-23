@@ -1,6 +1,5 @@
 # Hellow! 👋 
-## I'm Himanshu Rajore!
-- Currently completed B.tech from Chameli Devi Group of Institutions in Electronics and Communication branch.
+## I'm Himanshu Rajore! Currently completed B.tech from Chameli Devi Group of Institutions in Electronics and Communication branch.
 
 💻 Currently Working
 ===========
@@ -25,9 +24,9 @@ I'm pursand currently living in Indore(M.P.), India. Outside Tech, I love to pla
 
 📫 How to reach me:
 ==================
-![alt text](https://user-images.githubusercontent.com/96410955/147101374-cc77a8ec-afee-4389-9866-fd1278056dc9.png "Gmail")
-[![alt text](https://user-images.githubusercontent.com/96410955/147101964-30bea307-9f2f-476d-b9db-3578449df79b.png "Linkedin")](https://www.linkedin.com/in/himanshu-rajore-427a861a8/)
--
+[![alt text](https://user-images.githubusercontent.com/96410955/147101374-cc77a8ec-afee-4389-9866-fd1278056dc9.png "Gmail")](mailto:hhimanshurajore@gmail.com)
+[![alt text](https://user-images.githubusercontent.com/96410955/147101964-30bea307-9f2f-476d-b9db-3578449df79b.png "Linkedin")(https://www.linkedin.com/in/himanshu-rajore-427a861a8/)
+
 - 🌱 I’m currently learning 
 - 🥅 2022 Goals: Learn more, Explore more to develop more
 - ⚡ Fun fact: I love to draw and play Video Games.
