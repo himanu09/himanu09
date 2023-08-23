@@ -10,13 +10,9 @@
 🔭 Work Experience 
 ===========
 
-**Intern at STINGFLY AEROSPACE:**
-- Embedded System Intern, [STINGFLY AEROSPACE](https://www.linkedin.com/company/stingflyaerospace/?originalSubdomain=in).
-  
-**Intern at Infinity Research Lab:**
-- IOT Hardware Development Intern, at [Infinity Research Lab]([https://upgrademore.com/](https://infinityresearchlab.com/)), Indore.
 
-**Contributor at UpradeMore:**
+- Embedded System Intern, [STINGFLY AEROSPACE](https://www.linkedin.com/company/stingflyaerospace/?originalSubdomain=in).
+- IOT Hardware Development Intern, at [Infinity Research Lab](https://infinityresearchlab.com/), Indore.
 - Worked as a contributor at [UpgradeMore](https://upgrademore.com/). 
 
 **Check out my GitHub repository:**
