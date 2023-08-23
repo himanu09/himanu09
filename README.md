@@ -2,31 +2,25 @@
 ## I'm Himanshu Rajore!
 - Currently completed B.tech from Chameli Devi Group of Institutions in Electronics and Communication branch.
 
-🔭 Currently Working
+💻 Currently Working
 ===========
-**Trainee at Gems Essence:**    
-- Software Trainee at [Gems Essence]([https://www.linkedin.com/company/stingflyaerospace/?originalSubdomain=in](https://www.gemsessence.com/)).
+**Trainee at [Gems Essence]([https://www.linkedin.com/company/stingflyaerospace/?originalSubdomain=in](https://www.gemsessence.com/)).**   
   
 🔭 Work Experience 
 ===========
 
-
 - Embedded System Intern, [STINGFLY AEROSPACE](https://www.linkedin.com/company/stingflyaerospace/?originalSubdomain=in).
-- IOT Hardware Development Intern, at [Infinity Research Lab](https://infinityresearchlab.com/), Indore.
+- Working on several Robotics and IoT-related projects during my Internship as an IOT Development Intern at [Infinity Research Lab](https://infinityresearchlab.com/).
 - Worked as a contributor at [UpgradeMore](https://upgrademore.com/). 
 
 **Check out my GitHub repository:**
 
 [![alt text](https://user-images.githubusercontent.com/96410955/147039841-66cb3b83-15cd-43d3-ad9d-4643a8986778.png "30DaysofPython")](https://github.com/himanu09/30-Days-of-Python)
 
-**Intern at Infinity Research Lab:**
-
-Working on several Robotics and IoT related projects in this Internship at [Infinity Research Lab](https://infinityresearchlab.com/).
-
 About Himanshu⚡ :
 ================
 
-I'm pursuing Graduation and currently living in Indore(M.P.), India. Outside Tech, I love to play chees, enjoy music and explore nature outdoors.
+I'm pursand currently living in Indore(M.P.), India. Outside Tech, I love to play chees, enjoy music and explore nature outdoors.
 - Write to me: hhimanshurajore@gmail.com
 
 📫 How to reach me:
