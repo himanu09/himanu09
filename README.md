@@ -6,13 +6,16 @@
 ===========
 **Trainee at Gems Essence:**    
 - Software Trainee at [Gems Essence]([https://www.linkedin.com/company/stingflyaerospace/?originalSubdomain=in](https://www.gemsessence.com/)).
+  
 🔭 Work Experience 
 ===========
 
 **Intern at STINGFLY AEROSPACE:**
 - Embedded System Intern, [STINGFLY AEROSPACE](https://www.linkedin.com/company/stingflyaerospace/?originalSubdomain=in).
+  
 **Intern at Infinity Research Lab:**
 - IOT Hardware Development Intern, at [Infinity Research Lab]([https://upgrademore.com/](https://infinityresearchlab.com/)), Indore.
+
 **Contributor at UpradeMore:**
 - Worked as a contributor at [UpgradeMore](https://upgrademore.com/). 
 
