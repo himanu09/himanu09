@@ -28,9 +28,8 @@ I'm pursand currently living in Indore(M.P.), India. Outside Tech, I love to pla
 [![alt text](https://user-images.githubusercontent.com/96410955/147101964-30bea307-9f2f-476d-b9db-3578449df79b.png "Linkedin")](https://www.linkedin.com/in/himanshu-rajore-427a861a8/)
 
 - 🌱 I’m currently learning 
-- 🥅 2022 Goals: Learn more, Explore more to develop more
+- 🥅 2023 Goals: Learn more, Explore more to develop more
 - ⚡ Fun fact: I love to draw and play Video Games.
-
 
 
 ### Languages and Tools:
@@ -39,3 +38,11 @@ I'm pursand currently living in Indore(M.P.), India. Outside Tech, I love to pla
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![alt text](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![alt text](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+
+
+
+
+
+
