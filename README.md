@@ -19,7 +19,7 @@
 About Himanshu⚡ :
 ================
 
-I'm pursand currently living in Indore(M.P.), India. Outside Tech, I love to play chees, enjoy music and explore nature outdoors.
+I'm currently living my best and exploring the rest. Outside Tech, addicted to chess, music and nature.
 - Write to me: hhimanshurajore@gmail.com
 
 📫 How to reach me:
