@@ -21,7 +21,7 @@
 About Himanshu⚡ :
 ================
 
-I'm currently living my best and exploring the rest. Outside Tech, addicted to chess, music and nature.
+I'm currently living my best and exploring the rest. Outside Tech, addicted to chess, music, and nature.
 - Write to me: hhimanshurajore@gmail.com
 
 📫 How to reach me:
