@@ -15,6 +15,8 @@
 **Check out my GitHub repository:**
 
 [![alt text](https://user-images.githubusercontent.com/96410955/147039841-66cb3b83-15cd-43d3-ad9d-4643a8986778.png "30DaysofPython")](https://github.com/himanu09/30-Days-of-Python)
+[![alt text](https://user-images.githubusercontent.com/96410955/147039841-66cb3b83-15cd-43d3-ad9d-4643a8986778.png "Ruby-Codes")](https://github.com/himanu09/Ruby-Codes)
+
 
 About Himanshu⚡ :
 ================
