@@ -1,4 +1,4 @@
-# Hellow! 👋 
+# Hello! 👋 
 ## I'm Himanshu Rajore! Currently completed B.tech from Chameli Devi Group of Institutions in Electronics and Communication branch.
 
 💻 Currently Working
