@@ -1,5 +1,5 @@
-<h1 align="left">Hyyyy 👋</h1>
-# Himanu
+<h1 align="left">Hola 👋</h1>
+# Himanu here
 
 ```
  _   _ _   
@@ -11,9 +11,9 @@
 ```
 
 
-<h3 align="left">A passionate Full Stack Developer from India at Gems Essence Pvt. Ltd.</h3>
+<h3 align="left">A passionate Full Stack Developer from India. Currently Exploring the Tech with over a 3+ year of experience.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/himanu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanu__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hhimanshurajore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hhimanshurajore" height="30" width="40" /></a>
