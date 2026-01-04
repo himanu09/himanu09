@@ -12,7 +12,7 @@
 
 
 <h3 align="left">A passionate Full Stack Developer from India.</h3>
-<h3 align="left">Currently Exploring the Tech 💻 with over a 2.7+ year of experience.</h3>
+<h3 align="left">Currently Exploring the Tech 💻 with over a 2.5+ year of experience.</h3>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
